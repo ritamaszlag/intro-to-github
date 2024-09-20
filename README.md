@@ -2,6 +2,7 @@
 This is a demo repository to practice using GitHub.
 
 I try to use GitHub. Branching allows you to work on different versions of a repository simultaneously.
+This is very good practice for me.
 
 It has two files in the **Code** tab:
 - **README.md** is a file that describes this repo (you are currently reading it)
